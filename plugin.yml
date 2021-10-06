@@ -1,0 +1,6 @@
+main: de.thorbenwillimek.timber.Timber
+name: Timber
+version: 0.1
+author: Thorben Willimek
+description: Chops the entire tree when the player is sneaking while breaking a wooden log.
+api-version: 1.16
